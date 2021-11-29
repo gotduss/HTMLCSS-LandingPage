@@ -27,3 +27,28 @@ section {
 .flex-one {
     flex: 1;
 }
+.align-center {
+    align-items: center;
+}
+.center {
+    justify-content: center;
+}
+.space-between {
+    justify-content: space-between;
+}
+
+.btn {
+    padding: 6px 12px;
+    border: 0;
+    border-radius: 3px;
+    line-height: 1.4;
+    cursor: pointer;
+}
+.btn-default {
+    background-color: #faa541;
+    color: #FFF;
+}
+.btn-primary {
+    background-color: #364147;
+    color: #FFF;
+}
