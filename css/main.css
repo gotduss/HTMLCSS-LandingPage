@@ -52,3 +52,25 @@ section {
     background-color: #364147;
     color: #FFF;
 }
+
+.form-control {
+    display: block;
+    padding: 6px 12px;
+    color: #8598A2;
+    line-height: 1.4;
+    border: 1px solid #A0A0A0;
+}
+
+/* Typographic styles */
+.text-light {
+    font-size: 30px;
+    color: ##A0A0A0;
+}
+.text-secondary {
+    font-size: 30px;
+    color: #FAA541;
+}
+.text-primary {
+    font-size: 16px;
+    color: #364147;
+}
