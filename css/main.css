@@ -77,7 +77,7 @@ section {
 
 /* Header styles */
 .header-nav {
-    border-bottom: 1px #a0a0a0;
+    border-bottom: 1px solid #a0a0a0;
 }
 .brand {
     width: 170px;
@@ -93,5 +93,5 @@ section {
     width: 330px;
     height: 30px;
     padding: 6px 12px;
-    border: 1px #a0a0a0;
+    border: 1px solid #a0a0a0;
 }
